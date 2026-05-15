@@ -20,6 +20,7 @@ ProjectV6 is a community project focused on educating people about IPv6 and help
 | Tunnel Broker | 🔜 Coming soon | August 2026 |
 | Open Documentation | 🔜 Coming soon | August 2026 |
 | Auto IP assignation | 🔜 Coming soon | September 2026 |
+| Educational IXP | 📅 Planned | November 2026 |
 | IPv6 VPS | 📅 Planned | December 2026 |
 | BGP Transit | 📅 Planned | December 2026 |
 | ??? | 🤫 Secret project | March 2027 |
@@ -48,3 +49,5 @@ Got ideas? Want to donate server resources, develop something cool for ProjectV6
 [![Grants](https://img.shields.io/badge/Grants-grants@projectv6.net-green?style=flat-square)](mailto:grants@projectv6.net)
 [![Slack](https://img.shields.io/badge/Slack-%23projectv6-4A154B?style=flat-square&logo=slack)](https://hackclub.enterprise.slack.com/archives/C0B3ZNRE3C2)
 [![Website](https://img.shields.io/badge/Website-projectv6.net-ec3750?style=flat-square)](https://projectv6.net)
+
+<!-- Hi! --!>
