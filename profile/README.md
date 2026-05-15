@@ -20,6 +20,7 @@ ProjectV6 is a community project focused on educating people about IPv6 and help
 | Tunnel Broker | 🔜 Coming soon | August 2026 |
 | Open Documentation | 🔜 Coming soon | August 2026 |
 | Auto IP assignation | 🔜 Coming soon | September 2026 |
+| Educational IXP | 📅 Planned | November 2026 |
 | IPv6 VPS | 📅 Planned | December 2026 |
 | BGP Transit | 📅 Planned | December 2026 |
 | ??? | 🤫 Secret project | March 2027 |
