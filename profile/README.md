@@ -23,6 +23,7 @@ ProjectV6 is a community project focused on educating people about IPv6 and help
 | Educational IXP | 📅 Planned | November 2026 |
 | IPv6 VPS | 📅 Planned | December 2026 |
 | BGP Transit | 📅 Planned | December 2026 |
+| ASN and IPv6 PI sponsorship | 📅 Planned | January 2027 |
 | ??? | 🤫 Secret project | March 2027 |
 
 ---
