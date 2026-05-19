@@ -1,1 +1,1 @@
-Go to the [README.md](profile/README.md)
+Go to [README.md](profile/README.md)
