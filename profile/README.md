@@ -12,18 +12,16 @@ ProjectV6 is a community project focused on educating people about IPv6 and help
 
 ## What's coming
 
-<sub><sub>These are rough estimates. Dates may shift, services may change, and things might get cancelled entirely. We'll always be upfront about it.</sub></sub>
-
-| Service | Status | ETA |
-|---|---|---|
-| IPv6 Subnets | 🔜 Coming soon | October 2026 |
-| Open Documentation | 🔜 Coming soon | January 2027 |
-| Tunnel Broker | 🔜 Coming soon | February 2027 |
-| Auto IP assignation | 🔜 Coming soon | March 2027 |
-| Educational IXP | 📅 Planned | May 2027 |
+| Service | Status |
+|---|---|
+| IPv6 Subnets | 🔜 Coming soon |
+| Open Documentation | 🔜 Coming soon | 
+| Tunnel Broker | 🔜 Coming soon |
+| Auto IP assignation | 🔜 Coming soon |
+| Educational IXP | 📅 Planned |
 | IPv6 VPS | 📅 Planned | May 2027 |
 | BGP Transit | 📅 Planned | May 2027 |
-| ASN and IPv6 PI sponsorship | 📅 Waiting for funds | --- |
+| ASN and IPv6 PI sponsorship | 📅 Waiting for funds |
 ---
 
 ## Want to help us grow?
